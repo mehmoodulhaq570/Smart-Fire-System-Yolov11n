@@ -1,0 +1,12 @@
+.kaggle
+yolo11n.pt
+Fire Dataset for YOLOv11 divided
+# Ignore epoch0.pt to epoch9.pt
+
+fire-detection-4/yolo11n-896-fire-optimized4/weights/epoch?.pt
+
+# Ignore epoch10.pt to epoch99.pt
+fire-detection-4/yolo11n-896-fire-optimized4/weights/epoch??.pt
+
+# Ignore epoch100.pt to epoch199.pt
+fire-detection-4/yolo11n-896-fire-optimized4/weights/epoch1??.pt
