@@ -160,3 +160,15 @@ unzip -r fire-dataset.zip
 # Train or run inference
 python yolov11.py --weights weights/fire-detection-4/best.pt --source path/to/image.jpg --conf 0.25 --imgsz 640
 ```
+
+# Cite this work
+
+@misc{haq2025smartfire,
+  author       = {Mehmood Ul Haq},
+  title        = {Smart Fire System using YOLOv11n},
+  year         = {2025},
+  publisher    = {GitHub},
+  journal      = {GitHub Repository},
+  howpublished = {\url{https://github.com/mehmoodulhaq570/Smart-Fire-System-Yolov11n}},
+}
+
