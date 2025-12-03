@@ -162,7 +162,7 @@ python yolov11.py --weights weights/fire-detection-4/best.pt --source path/to/im
 ```
 
 # Cite this work
-
+```bash
 @misc{haq2025smartfire,
   author       = {Mehmood Ul Haq},
   title        = {Smart Fire System using YOLOv11n},
@@ -171,4 +171,4 @@ python yolov11.py --weights weights/fire-detection-4/best.pt --source path/to/im
   journal      = {GitHub Repository},
   howpublished = {\url{https://github.com/mehmoodulhaq570/Smart-Fire-System-Yolov11n}},
 }
-
+```
